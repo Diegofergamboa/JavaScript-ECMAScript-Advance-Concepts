@@ -1,0 +1,19 @@
+{
+  "name": "coding-a-videogame-javascript",
+  "version": "1.0.0",
+  "description": "coding a videogame using javascript",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegofergamboa/coding-a-videogame-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diegofergamboa/coding-a-videogame-javascript/issues"
+  },
+  "homepage": "https://github.com/Diegofergamboa/coding-a-videogame-javascript#readme"
+}
