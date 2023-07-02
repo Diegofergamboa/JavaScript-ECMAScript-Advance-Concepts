@@ -7,7 +7,6 @@ function getFullName() {
 
 // Using destructuring with arrays.
 let [firstName, lastName] = getFullName();
-console.log(firstName,);
 
 
 const users = {
@@ -16,4 +15,3 @@ const users = {
 }
 const {username , id} =  users
 
-console.log(username, id)
