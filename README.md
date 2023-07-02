@@ -1,6 +1,6 @@
 Course of ECMAScript History and Revision of JavaScript :rocket:
 
-This repository contains files with examples and concepts of all the features of ECMAScript (ES6, ES7, etc.). :books: ]
+This repository contains files with examples and concepts of all the features of ECMAScript (ES6, ES7, etc.). :books:
 
 Table of Contents :clipboard:
 Installation :wrench:
@@ -11,8 +11,10 @@ Contributing :raising_hand:
 License :page_with_curl:
 Author :bust_in_silhouette:
 Acknowledgments :pray:
+
+
 Installation :wrench:
-[1. Clone the repository:
+1. Clone the repository:
 
 bash
 Copy code
