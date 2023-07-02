@@ -1,5 +1,5 @@
-const canvas = document.getElementById('game');
-const game = canvas.getContext('2d');
+const canvas = document.getElementById('game')
+const game = canvas.getContext('2d')
 
 
 
@@ -12,7 +12,7 @@ function startGame() {
             canvasSize = window.innerHeight * 0.8;
         }
         return canvasSize;
-    };
+    }
     const result = canvasSize();
     
     canvas.setAttribute('width', result);
