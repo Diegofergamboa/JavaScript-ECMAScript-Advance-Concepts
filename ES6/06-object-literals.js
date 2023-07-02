@@ -7,7 +7,7 @@ function oldUserAdmin(user, id, phone, country) {
         id: id,
         phone: phone,
         country: country,
-    };
+    }
 }
 
 // But now, we can simply set the value without repeating the key. We can update it by assigning a new value to the variable.
@@ -17,7 +17,7 @@ function newUserAdmin(user, id, phone, country) {
         id,
         phone,
         country,
-    };
+    }
 }
 
 // Here's another way to set the values in a custom order.
@@ -26,7 +26,7 @@ function setNewUsers(name, phone, id) {
         name,
         id,
         phone,
-    };
+    }
     return publicReturn;
 }
 
