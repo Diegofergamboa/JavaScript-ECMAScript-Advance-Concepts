@@ -20,7 +20,8 @@ function newUserAdmin(user, id, phone, country) {
     }
 }
 
-// Here's another way to set the values in a custom order.
+// Here's another way to set the values in a custom order ¿why?.
+// As you can see below, the order of the params, it´s name, phone and id. But with the custom return of the 'publicReturn'  function, we're fixing that structure
 function setNewUsers(name, phone, id) {
     const publicReturn = {
         name,
