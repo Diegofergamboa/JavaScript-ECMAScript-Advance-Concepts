@@ -18,7 +18,7 @@ const {username , id} =  users
 // Spread operator.
 
 let person = {
-    nam: 'Diego',
+    name: 'Diego',
     age: 23
 }
 
