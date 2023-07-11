@@ -8,6 +8,7 @@ function newUsers(name, age, country) {
 
 
 // This is the new syntax with the ECMAScript with the default values.
+// This works fine with the const functions too.
 function newAdmin(name = 'Default name', age = 23, country = 'USA') {
     return (name, age, country)
 }
