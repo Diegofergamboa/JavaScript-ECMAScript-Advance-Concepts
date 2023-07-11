@@ -8,5 +8,5 @@ const square = (num) => {
     return num * num
 }
 
-// You can just pass to the execution comparaing against the another concepts
+// You can just pass to the execution comparing against the another concepts
 const square = num => num * num
