@@ -7,7 +7,7 @@ function newUsers(name, age, country) {
 }
 
 
-// This is the new syntaxis with the ECMAScript with the default values.
+// This is the new syntax with the ECMAScript with the default values.
 function newAdmin(name = 'Default name', age = 23, country = 'USA') {
     return (name, age, country)
 }
