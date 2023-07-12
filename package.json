@@ -1,0 +1,12 @@
+{
+  "name": "javascript-concepts",
+  "version": "1.0.0",
+  "description": "Course of ECMAScript History and Revision of JavaScript :rocket:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
