@@ -1,4 +1,4 @@
-# Course of ECMAScript History and Revision of JavaScript 🚀
+## Course of ECMAScript History and Revision of JavaScript 🚀
 
 ![ECMAScript Logo](https://example.com/ecmascript_logo.png)
 
