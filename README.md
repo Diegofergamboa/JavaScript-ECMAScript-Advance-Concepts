@@ -1,16 +1,19 @@
-Course of ECMAScript History and Revision of JavaScript :rocket:
+# Course of ECMAScript History and Revision of JavaScript 🚀
 
-This repository contains files with examples and concepts of all the features of ECMAScript (ES6, ES7, etc.). :books:
+![ECMAScript Logo](https://example.com/ecmascript_logo.png)
 
-Table of Contents :clipboard:
-Installation :wrench:
-Usage :computer:
-Features :sparkles:
-Technologies Used :computer:
-Contributing :raising_hand:
-License :page_with_curl:
-Author :bust_in_silhouette:
-Acknowledgments :pray:
+Welcome to the "Course of ECMAScript History and Revision of JavaScript" repository! 📚 This repository serves as a comprehensive guide to ECMAScript (ES) features, covering ES6, ES7, and more. Here, you will find example files and in-depth explanations of various JavaScript concepts.
+
+## Table of Contents 📋
+
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Features](#features-)
+- [Technologies Used](#technologies-used-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Author](#author-)
+- [Acknowledgments](#acknowledgments-)
 
 
 Installation :wrench:
