@@ -1,6 +1,6 @@
 ## Course of ECMAScript History and Revision of JavaScript 🚀
 
-![ECMAScript Logo](https://www.azulweb.net/wp-content/uploads/2021/07/ecmasport.jpeg)
+![ECMAScript Logo]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fes6_36726.html&psig=AOvVaw2ZhVVkrrk2azrGw7CANTXO&ust=1690567474955000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLDC5uG8r4ADFQAAAAAdAAAAABAD')
 
 Welcome to the "Course of ECMAScript History and Revision of JavaScript" repository! 📚 This repository serves as a comprehensive guide to ECMAScript (ES) features, covering ES6, ES7, and more. Here, you will find example files and in-depth explanations of various JavaScript concepts.
 
