@@ -2,7 +2,7 @@
 
 💻
 
-Welcome to the "Course of ECMAScript History and Revision of JavaScript" repository! 📚 This repository serves as a comprehensive guide to ECMAScript (ES) features, covering ES6, ES7, and more. Here, you will find example files and in-depth explanations of various JavaScript concepts.
+Welcome to the "Course of ECMAScript History and Revision of JavaScript" repository! 📚 Explore a comprehensive guide to ECMAScript (ES) features, including ES6, ES7, and more. Find examples and explanations of various JavaScript concepts here. 🚀
 
 ## Table of Contents 📋
 
